@@ -1,5 +1,7 @@
 #Gaming Platform
+
 ##Project of Software
+
 ###Implemented functions:
 
 • Game Library Management: Managing a catalog of available games for users;
